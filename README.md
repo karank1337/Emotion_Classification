@@ -63,7 +63,6 @@ python predict.py --text "i am feeling awesome today!"
 .
 ├── Emotion-Dataset.csv
 ├── EmotionClassification_KK.ipynb
-├── predict.py                 # optional quick CLI for inference
 ├── requirements.txt
 └── README.md
 ```
